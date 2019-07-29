@@ -1,7 +1,7 @@
 # node-exercise
 An exercise using the Star Wars API [https://swapi.co/](https://swapi.co/).
 
-Send the completed GitHub link to `craig.andersen@current.tech`.
+Send the completed GitHub link to your company contact.
 
 ## Goal
 We want to know that you can: 
