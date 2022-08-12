@@ -1,5 +1,5 @@
 # node-exercise
-An exercise using the Star Wars API [https://swapi.co/](https://swapi.dev/).
+An exercise using the Star Wars API [https://swapi.dev/](https://swapi.dev/).
 
 Send the completed GitHub link to your company contact.
 
